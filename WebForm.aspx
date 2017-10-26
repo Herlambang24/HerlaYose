@@ -40,7 +40,7 @@
                 <td class="auto-style2">Prodi</td>
                 <td class="auto-style3">:</td>
                 <td>
-                    <asp:TextBox ID="txtProdi" runat="server" Width="338px"></asp:TextBox>
+                    <asp:TextBox ID="txtAlamat" runat="server" Width="338px"></asp:TextBox>
                 </td>
             </tr>
             <tr>
